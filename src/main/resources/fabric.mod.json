@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "eldritchrealms",
-	"version": "${version}",
+	"version": "0.0.1-1.20.X",
 	"name": "Eldritch Realms",
 	"description": "The Eldritch Realm, a dimension that defies the laws of nature and plunges the intrepid explorer into an otherworldly landscape of cosmic horror...",
 	"authors": [
